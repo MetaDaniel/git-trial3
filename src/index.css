@@ -9,5 +9,16 @@
     align-content: center;
     align-items: center;
     justify-content: center;
+    align-self: center;
+
+}
+
+button{
+    color: white;
+    background-color: aquamarine;
+    border-radius: 4px;
+    height: 20px;
+    justify-self: center;
+    align-self: center;
 
 }
